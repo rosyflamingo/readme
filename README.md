@@ -1,9 +1,6 @@
 ### Hi there !
 
-
-**KariukiBrian/kariukibrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi, I'm Brian Kariuki, a curious human and web developer.
 
 - 🔭 I’m currently learning new stuff
 - 🌱 I’m currently learning ...
