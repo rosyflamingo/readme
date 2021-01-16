@@ -2,7 +2,7 @@
 
 I'm Brian Kariuki, a curious human and aspiring web scientist.
 
-- 🔭 I’m currently learning various web technologies
+- 🔭 I’m currently learning Dart
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
