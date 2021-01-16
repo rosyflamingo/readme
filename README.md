@@ -2,12 +2,10 @@
 
 I'm Brian Kariuki, a curious human and aspiring web scientist.
 
-- 🔭 I’m currently learning Dart
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about philosophy
-- 📫 How to reach me: 
+- 🔭 Learning Dart
+- 🌱 Working on a cool project
+- 💬 Ask me about philosophy and meditation.
+- 📫 How to reach me: mostly twitter
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
