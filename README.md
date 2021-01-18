@@ -10,5 +10,5 @@ The internet is like the ocean, vast and mostly unexplored. I mostly enjoy surfi
 - 💬 Ask me about philosophy and meditation.
 - 📫 How to reach me: mostly twitter
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...can't think of any
+- ⚡ Fun fact: ...can't think of any rn but I promise I'm not that boring IRL.
 
