@@ -2,10 +2,10 @@
 
 I'm Brian Kariuki, a curious human and aspiring web scientist.
 
--The internet is like the ocean, vast and mostly unexplored. I mostly enjoy surfing and deep sea diving. Stay safe, be kind and avoid the sharks.
+The internet is like the ocean, vast and mostly unexplored. I mostly enjoy surfing and deep sea diving. Stay safe, be kind and avoid the sharks.
 
 
-- 🔭 Learning Dart, Flutter
+- 🔭 Learning Dart, Flutter and how to be more eco-friendly
 - 🌱 Working on a cool project
 - 💬 Ask me about philosophy and meditation.
 - 📫 How to reach me: mostly twitter
