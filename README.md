@@ -2,7 +2,7 @@
 
 I'm Brian Kariuki, a curious human and aspiring web scientist.
 
-The internet is like the ocean, vast and mostly unexplored. The waves can often be wild and will throw you around, the deep sea is electrifying. Stay safe, be kind and avoid the sharks.
+The internet is like the ocean, vast and mostly unexplored. The waves can sometimes be wild and will throw you around, the deep sea is electrifying. Stay safe, be kind and avoid the sharks.
 
 
 - 🔭 Learning Dart, Flutter and how to be more eco-friendly
