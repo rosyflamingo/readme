@@ -12,5 +12,5 @@ The internet is like the ocean, vast and mostly unexplored. The waves can someti
 - 💬 r/nosurf
 - 📫 briankariuki@protonmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...can't think of any rn but I promise I'm not that boring IRL.
+- ⚡ Fun fact: ...
 
